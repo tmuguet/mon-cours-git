@@ -1,1 +1,2 @@
 Contenu de mon fichier
+Modifié dans la branche
